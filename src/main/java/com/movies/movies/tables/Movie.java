@@ -1,4 +1,4 @@
-package com.movies.movies;
+package com.movies.movies.tables;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
